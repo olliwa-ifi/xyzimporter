@@ -1,4 +1,9 @@
-# Olliwa Points XYZ / CSV Importer
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
+![Platform](https://img.shields.io/badge/platform-SketchUp-orange)
+![Language](https://img.shields.io/badge/language-Ruby-red)
+
+
+# Points XYZ / CSV Importer
 
 Plugin pour SketchUp 2020 permettant l'importation rapide de points à partir de fichiers texte (XYZ ou CSV). Le plugin convertit les coordonnées brutes en points de construction (`CPoints`) et ajoute des labels avec flèches de rappel.
 
